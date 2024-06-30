@@ -105,7 +105,7 @@ To run the API in a Docker container, follow these steps:
 
 3. **Access the API**:
 
-    Open your browser and navigate to `http://127.0.0.1:8000/docs`.
+    Open your browser and navigate to `http://127.0.0.1:8041/docs`.
 
 ## Contributing
 
